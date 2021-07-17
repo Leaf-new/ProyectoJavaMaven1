@@ -1,0 +1,7 @@
+organization=leaf-new
+projectKey=Leaf-new_ProyectoJavaMaven1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Leaf-new_ProyectoJavaMaven1
+ceTaskId=AXqyyT_SIMQ8WWJBCsrJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqyyT_SIMQ8WWJBCsrJ
